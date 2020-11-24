@@ -1,12 +1,13 @@
-name: "Fowlie's blog"
-description: "Just another blog"
+name: "ClassifiedPop"
+description: "ClassifiedPop and Cuerdas Distantes"
 
 gems:
   - jekyll-paginate
   - jemoji
 
 paginate: 30
-url: "http://localhost:4000"
+baseurl: "/dev/classifiedpop"
+url: "http://localhost:4000/dev/classifiedpop"
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
